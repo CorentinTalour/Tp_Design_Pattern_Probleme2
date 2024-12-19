@@ -1,0 +1,1 @@
+Application terminal .NET 9
